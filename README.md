@@ -41,5 +41,5 @@ View in your browser
 
 ## Demo
 
-https://sinesipho.github.io/Webtank-Solutions/
+https://makolat.github.io/Webtank-Solutions/
 
